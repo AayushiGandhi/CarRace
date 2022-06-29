@@ -12,8 +12,11 @@ Designed GUI based multiplayer racing game using threading concept using python
 ![Menu](images/2.jpg)
 
 - Single Player Car Racing Game\
-![Single Player](images/3.jpg)
+![Single Player](images/5.jpg)
 
 - Multiplayer Car Racing Game\
-![Multiplayer](images/4.jpg)
+![Multiplayer](images/3.jpg)
+
+- Winner\
+![Winner](images/4.jpg)
 
